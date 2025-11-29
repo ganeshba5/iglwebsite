@@ -1,0 +1,16 @@
+{
+  "name": "infogloballink-coming-soon",
+  "version": "1.0.0",
+  "description": "Coming Soon page for InfoGlobalLink",
+  "scripts": {
+    "build": "echo 'No build step required for static site'",
+    "build:azure": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "static",
+    "coming-soon"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
